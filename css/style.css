@@ -38,6 +38,15 @@ header .overlay {
   background-color: rgba(0, 0, 0, 0.7);
 } 
 
+
+.blue-text{
+  color: #0D6EFD;
+}
+
+.header-button{
+  border: 1px solid #0D6EFD;
+}
+
 /* creative */ 
 #creative .caseArea { 
   margin: 50px -50px 0 0; 
@@ -56,4 +65,5 @@ header .overlay {
   #creative .caseImage {
     display: none;
   }
+
 }
